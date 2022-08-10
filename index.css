@@ -33,6 +33,7 @@ img{
 }
 .card > p {
     font-size: 18px;
+    
 }
 .card > ul {
     list-style: none;
@@ -40,17 +41,19 @@ img{
 }
 .card li {
     margin: 10px o;
-    font-size: 10px;
+    font-size: 16px;
 }
 .indent {
-    color: rgb(239, 216, 202)
     border-left: 5px solid rgb(249, 202, 36);
     padding-left: 10px;
     margin-left: -6px;
+    color: rgb(239, 216, 202);
+  
 
 }
 .noindent {
     padding-left: 16px;
+    
 }
 .mark {
     padding: 2px;
@@ -73,3 +76,5 @@ a:hover {
 #last {
     text-align: center;
 }
+
+
